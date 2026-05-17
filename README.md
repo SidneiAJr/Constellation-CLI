@@ -7,6 +7,21 @@ Foco: Frontend + Backend (JS/TS/PHP/Java)
 Criado no Brasil 🇧🇷 para o mundo.
 
 ---
+☕ Apoio ao Desenvolvedor
+
+Se você gosta do projeto e quer apoiar:
+
+⭐ Dê uma estrela no GitHub
+
+🐛 Reporte bugs
+
+💡 Sugira melhorias
+
+📢 Compartilhe com outros devs
+
+☕ Pague um café: [doação opcional]
+
+---
 
 ## 📌 Sobre a Ferramenta
 
