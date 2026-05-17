@@ -7,7 +7,7 @@ Foco: Frontend + Backend (JS/TS/PHP/Java)
 Criado no Brasil 🇧🇷 para o mundo.
 
 ---
-☕ Apoio ao Desenvolvedor
+## ☕ Apoio ao Desenvolvedor
 
 Se você gosta do projeto e quer apoiar:
 
