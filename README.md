@@ -1,11 +1,17 @@
 # 🚀 Constellation Supreme CLI — Documentação Oficial
 
-Site:  https://constelationclisite.vercel.app/
+## Site:  https://constelationclisite.vercel.app/
 
 **Projeto Open Source**  
 Foco: Frontend + Backend (JS/TS/PHP/Java)  
 Criado no Brasil 🇧🇷 para o mundo.
 
+---
+⚠ Observação Importante
+
+Este software foi desenvolvido para ajudar a comunidade de forma totalmente gratuita.
+
+É expressamente proibido vender, revender, comercializar ou lucrar de qualquer forma com este conteúdo.
 ---
 ## ☕ Apoio ao Desenvolvedor
 
