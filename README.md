@@ -1,4 +1,36 @@
+# 🚀 Constellation Supreme CLI — Documentação Oficial
 
+**Projeto Open Source**  
+Foco: Frontend + Backend (JS/TS/PHP/Java)  
+Criado no Brasil 🇧🇷 para o mundo.
+
+---
+
+## 📌 Sobre a Ferramenta
+
+A **Constellation Supreme CLI** é um script Shell focado em produtividade, permitindo criar projetos completos com organização profissional em segundos, sem instalações complexas.
+
+- ✔ **Simples** — Apenas execute o script
+- ✔ **Modular** — Escolha o tipo de backend e frontend
+- ✔ **Rápido** — Estruturas prontas automaticamente
+- ✔ **Automático** — Instala dependências quando necessário
+
+---
+
+## 📦 Requisitos
+
+Para executar corretamente:
+
+- ✔ Git instalado
+- ✔ Node.js instalado
+- ✔ Java 17 (para projetos Spring Boot)
+- ✔ Maven (para projetos Spring Boot)
+
+---
+
+## 📁 Estrutura Criada
+
+### Backend Padrão (Node.js/PHP)
 ---
 
 ## 🟩 Dados de Teste
