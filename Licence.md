@@ -53,7 +53,6 @@ SOFTWARE.
 
 ## 📧 CONTATO
 
-- **Autor:** Sidnei A. Jr
 - **Projeto:** Constellation CLI
 - **Site:** https://constelationclisite.vercel.app/
 ---
