@@ -178,6 +178,8 @@ Arquivos gerados com código:
 - auth.middleware.js (JWT)
 - Models (Usuario, Produto, Pedido, Auth)
 
+---
+
 ## [3.5J] - 2026-05-17
 🎉 Versão Enterprise - Java/Spring Boot
 
@@ -189,3 +191,14 @@ Arquivos gerados com código:
 - ✅ Application.properties pré-configurado
 - ✅ 30+ arquivos Java estruturados
 - ✅ Suporte a MySQL, PostgreSQL e Oracle
+
+### 🔧 Melhorias:
+- 🔧 Menu interativo aprimorado
+- 🔧 Documentação do projeto atualizada
+- 🔧 Suporte a múltiplos bancos de dados
+  
+### 🐛 Corrigido
+- Estrutura de pastas do Spring Boot
+- Caminho correto do pom.xml
+- Application.properties no local certo
+- Erros de sintaxe no Bash
