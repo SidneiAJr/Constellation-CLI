@@ -181,7 +181,7 @@ Arquivos gerados com código:
 ---
 
 ## [3.5J] - 2026-05-17
-🎉 Versão Enterprise - Java/Spring Boot
+### 🎉 Versão Enterprise - Java/Spring Boot
 
 ### A maior evolução do Constellation CLI!
 - ✨ Novidades em Relação à Versão 2.0
