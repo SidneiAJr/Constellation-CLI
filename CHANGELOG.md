@@ -2,23 +2,7 @@
 
 Todas as mudanças notáveis neste projeto serão documentadas aqui.
 
-## [3.5J] - 2026-05-17
-
-### 🎉 Adicionado
-- **Java/Spring Boot 3.2** - Backend enterprise completo
-- Pom.xml com dependências para nuvem (Azure)
-- Application.properties pré-configurado
-- 30+ arquivos Java estruturados
-- Suporte a MySQL, PostgreSQL e Oracle
-
-### 🐛 Corrigido
-- Estrutura de pastas do Spring Boot
-- Caminho correto do pom.xml
-- Application.properties no local certo
-
-### 🔧 Melhorado
-- Menu interativo
-- Documentação do projeto
+---
 
 ## [0.1] - Alpha - 2024
 
@@ -66,10 +50,6 @@ Todas as mudanças notáveis neste projeto serão documentadas aqui.
 
 ---
 
-# 📝 Changelog - Constellation CLI
-
----
-
 ## [1.0] - Beta - 2024/2025
 
 ### 🎉 Primeira Versão Estável (Beta)
@@ -82,7 +62,7 @@ Todas as mudanças notáveis neste projeto serão documentadas aqui.
 
 #### Novas Funcionalidades:
 - ✅ **Arquivo `.env`** - Configuração de ambiente automática
-- ✅ **Docker e Docker Compose** - Containerizaçãço pronta
+- ✅ **Docker e Docker Compose** - Containerização pronta
 - ✅ **Instalação Automática de Dependências** - npm install automático
 - ✅ **Nova Opção no Menu** - Opção 5 (Backend TS + React + Docker)
 
@@ -128,13 +108,9 @@ Todas as mudanças notáveis neste projeto serão documentadas aqui.
 
 ---
 
-# 📝 Changelog - Constellation CLI
+## [2.0] - Beta Avançado - 2025
 
----
-
-## [2.0 / 3.0] - Beta Avançado - 2025
-
-### 🎉 Evolução da Versão 1.0 para Enterprise
+### 🎉 Evolução da Versão 1.0
 
 **Grande salto de qualidade e funcionalidades!**
 
@@ -154,7 +130,9 @@ Todas as mudanças notáveis neste projeto serão documentadas aqui.
 | **Nova Opção 6** | Backend JS + Módulos Prontos + React | ❌ Não existia |
 | **Arquivos com Código** | Controllers, Services, Models com lógica real | ❌ Só arquivos vazios |
 
-#### 📦 Novos Arquivos com Código Pronto:
+---
+
+### 📦 Novos Arquivos com Código Pronto:
 
 - ✅ `novo_arquivos_backend1` → `.env` configurável
 - ✅ `novos_arquivos_backend2` → `database.js` + `env-config.js`
@@ -163,7 +141,9 @@ Todas as mudanças notáveis neste projeto serão documentadas aqui.
 - ✅ `novo_arquivos_backend5` → `user-service.js` (lógica de negócio)
 - ✅ `novo_arquivos_backend6` → Models (Usuario, Produto, Pedido, Auth)
 
-#### 🧪 Testes Implementados:
+---
+
+### 🧪 Testes Implementados:
 
 ```typescript
 // soma.test.ts
@@ -186,24 +166,26 @@ Todas as mudanças notáveis neste projeto serão documentadas aqui.
 ## 🔧 Opção 6 - Backend JS + Módulos Preencher + React
 
 O que gera:
-
-Backend com código funcional (CRUD, JWT, validações)
-
-Frontend React com Vite
-
-Docker configurado
-
-Testes unitários
+- Backend com código funcional (CRUD, JWT, validações)
+- Frontend React com Vite
+- Docker configurado
+- Testes unitários
 
 Arquivos gerados com código:
+- user-controller.js (CRUD completo)
+- user-service.js (lógica de negócio)
+- database.js (conexão MySQL)
+- auth.middleware.js (JWT)
+- Models (Usuario, Produto, Pedido, Auth)
 
-user-controller.js (CRUD completo)
+## [3.5J] - 2026-05-17
+🎉 Versão Enterprise - Java/Spring Boot
 
-user-service.js (lógica de negócio)
-
-database.js (conexão MySQL)
-
-auth.middleware.js (JWT)
-
-Models (Usuario, Produto, Pedido, Auth)
-
+### A maior evolução do Constellation CLI!
+- ✨ Novidades em Relação à Versão 2.0
+- 🆕 Novo Backend:
+- ✅ Java/Spring Boot 3.2 - Backend enterprise completo
+- ✅ Pom.xml com dependências para nuvem (Azure, Oracle)
+- ✅ Application.properties pré-configurado
+- ✅ 30+ arquivos Java estruturados
+- ✅ Suporte a MySQL, PostgreSQL e Oracle
