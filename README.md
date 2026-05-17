@@ -28,11 +28,6 @@ Para executar corretamente:
 
 ---
 
-## 📁 Estrutura Criada
-
-### Backend Padrão (Node.js/PHP)
----
-
 ## 🟩 Dados de Teste
 
 São criados dados auxiliares automaticamente:
