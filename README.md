@@ -92,7 +92,7 @@ São criados dados auxiliares automaticamente:
 
 ## 📚 Como Usar
 
-1. **Clone ou baixe o script ou coprie o script e remova o ´´´ para não dar erro.**
+1. **Clone ou baixe o script ou copie o script e remova o ´´´ para não dar erro.**
 2. **Crie uma pasta no seu computador**
 3. **Dentro dela, crie um arquivo com o nome `setup.sh`**
 4. **Cole o script completo fornecido no GitHub**
