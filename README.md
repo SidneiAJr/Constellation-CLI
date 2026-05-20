@@ -7,6 +7,19 @@ Foco: Frontend + Backend (JS/TS/PHP/Java)
 Criado no Brasil 🇧🇷 para o mundo.
 
 ---
+
+## 🚀 Tecnologias
+
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height=50 />  
+</p>
+
+
+---
+
 ## ⚠ Observação Importante
 
 Este software foi desenvolvido para ajudar a comunidade de forma totalmente gratuita.
